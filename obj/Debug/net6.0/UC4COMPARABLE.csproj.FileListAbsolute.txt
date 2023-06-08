@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC4COMPARABLE\bin\Debug\net6.0\UC4COMPARABLE.exe
+C:\Users\swath\source\repos\UC4COMPARABLE\bin\Debug\net6.0\UC4COMPARABLE.deps.json
+C:\Users\swath\source\repos\UC4COMPARABLE\bin\Debug\net6.0\UC4COMPARABLE.runtimeconfig.json
+C:\Users\swath\source\repos\UC4COMPARABLE\bin\Debug\net6.0\UC4COMPARABLE.dll
+C:\Users\swath\source\repos\UC4COMPARABLE\bin\Debug\net6.0\UC4COMPARABLE.pdb
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\UC4COMPARABLE.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\UC4COMPARABLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\UC4COMPARABLE.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\UC4COMPARABLE.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\UC4COMPARABLE.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\UC4COMPARABLE.dll
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\refint\UC4COMPARABLE.dll
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\UC4COMPARABLE.pdb
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\UC4COMPARABLE.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC4COMPARABLE\obj\Debug\net6.0\ref\UC4COMPARABLE.dll
